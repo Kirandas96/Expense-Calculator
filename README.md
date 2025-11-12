@@ -1,5 +1,4 @@
 # Expense Calculator
-Try this - dailyexpensecalculatork.netlify.app
 
 A simple and elegant expense tracking web application built with vanilla JavaScript, featuring beautiful charts and comprehensive analytics.
 
