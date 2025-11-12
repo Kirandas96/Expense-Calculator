@@ -1,0 +1,12 @@
+{
+  "name": "expense-calculator",
+  "version": "1.0.0",
+  "description": "A simple and elegant expense tracking web application built with vanilla JavaScript, featuring beautiful charts and comprehensive analytics.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
